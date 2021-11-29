@@ -18,8 +18,9 @@
 Available files: 
 - making_data_grs.R: calculation of GRSs
 - making_data_database_selection.R: creation of study database + selection of participants (flow chart data)
+- making_data_gwas_subfertility_moba.R: running temporary GWAS on subfertility in MoBa (PLINK1.9 and GWAMA code not included)
 - analysis_main.R: one-sample MR and quality checks
-- analysis_gwas_mr.R: generation of temporary GWAS on subfertility in MoBa + two-sample MR
+- analysis_2smr.R: two-sample MR and quality checks
 
 
 ## Citation
